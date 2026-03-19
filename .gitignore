@@ -12,6 +12,10 @@ build/
 develop-eggs/
 dist/
 downloads/
+data
+models
+myenv
+reports
 eggs/
 .eggs/
 lib/
